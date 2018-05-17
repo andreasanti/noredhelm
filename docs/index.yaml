@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  node-red:
+  - apiVersion: v1
+    created: 2018-05-17T12:10:45.867188203+02:00
+    description: A Helm chart for Kubernetes
+    digest: 321d961ad88f31db9e34cf00f15be531f2bde33a9c162ddb8bc811fd8de1ef8f
+    name: node-red
+    urls:
+    - https://andreasanti.github.io/noredhelm/node-red-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-05-17T12:10:45.864054024+02:00
